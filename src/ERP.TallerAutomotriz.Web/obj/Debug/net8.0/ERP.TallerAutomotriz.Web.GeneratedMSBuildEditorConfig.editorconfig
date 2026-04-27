@@ -1,0 +1,214 @@
+is_global = true
+build_property.MudDebugAnalyzer = 
+build_property.MudAllowedAttributePattern = 
+build_property.MudIllegalParameters = 
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = ERP.TallerAutomotriz.Web
+build_property.RootNamespace = ERP.TallerAutomotriz.Web
+build_property.ProjectDir = C:\Universidad\Ciclo 7\Complemento Especializado\Ejemplo ERP\erp-taller-automotriz\erp-taller-automotriz\src\ERP.TallerAutomotriz.Web\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Universidad\Ciclo 7\Complemento Especializado\Ejemplo ERP\erp-taller-automotriz\erp-taller-automotriz\src\ERP.TallerAutomotriz.Web
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Universidad/Ciclo 7/Complemento Especializado/Ejemplo ERP/erp-taller-automotriz/erp-taller-automotriz/src/ERP.TallerAutomotriz.Web/Components/Account/Pages/Login.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xBY2NvdW50XFBhZ2VzXExvZ2luLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Universidad/Ciclo 7/Complemento Especializado/Ejemplo ERP/erp-taller-automotriz/erp-taller-automotriz/src/ERP.TallerAutomotriz.Web/Components/App.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xBcHAucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Universidad/Ciclo 7/Complemento Especializado/Ejemplo ERP/erp-taller-automotriz/erp-taller-automotriz/src/ERP.TallerAutomotriz.Web/Components/Layout/AuthLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xMYXlvdXRcQXV0aExheW91dC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Universidad/Ciclo 7/Complemento Especializado/Ejemplo ERP/erp-taller-automotriz/erp-taller-automotriz/src/ERP.TallerAutomotriz.Web/Components/Layout/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xMYXlvdXRcTWFpbkxheW91dC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Universidad/Ciclo 7/Complemento Especializado/Ejemplo ERP/erp-taller-automotriz/erp-taller-automotriz/src/ERP.TallerAutomotriz.Web/Components/Layout/NavMenu.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xMYXlvdXRcTmF2TWVudS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Universidad/Ciclo 7/Complemento Especializado/Ejemplo ERP/erp-taller-automotriz/erp-taller-automotriz/src/ERP.TallerAutomotriz.Web/Components/Pages/Clientes/ClienteFormDialog.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xDbGllbnRlc1xDbGllbnRlRm9ybURpYWxvZy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Universidad/Ciclo 7/Complemento Especializado/Ejemplo ERP/erp-taller-automotriz/erp-taller-automotriz/src/ERP.TallerAutomotriz.Web/Components/Pages/Clientes/Clientes.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xDbGllbnRlc1xDbGllbnRlcy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Universidad/Ciclo 7/Complemento Especializado/Ejemplo ERP/erp-taller-automotriz/erp-taller-automotriz/src/ERP.TallerAutomotriz.Web/Components/Pages/Dashboard.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xEYXNoYm9hcmQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Universidad/Ciclo 7/Complemento Especializado/Ejemplo ERP/erp-taller-automotriz/erp-taller-automotriz/src/ERP.TallerAutomotriz.Web/Components/Pages/Error.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xFcnJvci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Universidad/Ciclo 7/Complemento Especializado/Ejemplo ERP/erp-taller-automotriz/erp-taller-automotriz/src/ERP.TallerAutomotriz.Web/Components/Pages/Inventario/Almacenes.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xJbnZlbnRhcmlvXEFsbWFjZW5lcy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Universidad/Ciclo 7/Complemento Especializado/Ejemplo ERP/erp-taller-automotriz/erp-taller-automotriz/src/ERP.TallerAutomotriz.Web/Components/Pages/Inventario/AlmacenFormDialog.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xJbnZlbnRhcmlvXEFsbWFjZW5Gb3JtRGlhbG9nLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Universidad/Ciclo 7/Complemento Especializado/Ejemplo ERP/erp-taller-automotriz/erp-taller-automotriz/src/ERP.TallerAutomotriz.Web/Components/Pages/Inventario/MovimientoFormDialog.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xJbnZlbnRhcmlvXE1vdmltaWVudG9Gb3JtRGlhbG9nLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Universidad/Ciclo 7/Complemento Especializado/Ejemplo ERP/erp-taller-automotriz/erp-taller-automotriz/src/ERP.TallerAutomotriz.Web/Components/Pages/Inventario/Movimientos.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xJbnZlbnRhcmlvXE1vdmltaWVudG9zLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Universidad/Ciclo 7/Complemento Especializado/Ejemplo ERP/erp-taller-automotriz/erp-taller-automotriz/src/ERP.TallerAutomotriz.Web/Components/Pages/Inventario/RepuestoFormDialog.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xJbnZlbnRhcmlvXFJlcHVlc3RvRm9ybURpYWxvZy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Universidad/Ciclo 7/Complemento Especializado/Ejemplo ERP/erp-taller-automotriz/erp-taller-automotriz/src/ERP.TallerAutomotriz.Web/Components/Pages/Inventario/Repuestos.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xJbnZlbnRhcmlvXFJlcHVlc3Rvcy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Universidad/Ciclo 7/Complemento Especializado/Ejemplo ERP/erp-taller-automotriz/erp-taller-automotriz/src/ERP.TallerAutomotriz.Web/Components/Pages/Personal/Asistencia.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xQZXJzb25hbFxBc2lzdGVuY2lhLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Universidad/Ciclo 7/Complemento Especializado/Ejemplo ERP/erp-taller-automotriz/erp-taller-automotriz/src/ERP.TallerAutomotriz.Web/Components/Pages/Personal/Comisiones.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xQZXJzb25hbFxDb21pc2lvbmVzLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Universidad/Ciclo 7/Complemento Especializado/Ejemplo ERP/erp-taller-automotriz/erp-taller-automotriz/src/ERP.TallerAutomotriz.Web/Components/Pages/Personal/ComisionFormDialog.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xQZXJzb25hbFxDb21pc2lvbkZvcm1EaWFsb2cucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Universidad/Ciclo 7/Complemento Especializado/Ejemplo ERP/erp-taller-automotriz/erp-taller-automotriz/src/ERP.TallerAutomotriz.Web/Components/Pages/Personal/TecnicoFormDialog.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xQZXJzb25hbFxUZWNuaWNvRm9ybURpYWxvZy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Universidad/Ciclo 7/Complemento Especializado/Ejemplo ERP/erp-taller-automotriz/erp-taller-automotriz/src/ERP.TallerAutomotriz.Web/Components/Pages/Personal/Tecnicos.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xQZXJzb25hbFxUZWNuaWNvcy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Universidad/Ciclo 7/Complemento Especializado/Ejemplo ERP/erp-taller-automotriz/erp-taller-automotriz/src/ERP.TallerAutomotriz.Web/Components/Pages/PlaceholderModulos.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xQbGFjZWhvbGRlck1vZHVsb3MucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Universidad/Ciclo 7/Complemento Especializado/Ejemplo ERP/erp-taller-automotriz/erp-taller-automotriz/src/ERP.TallerAutomotriz.Web/Components/Pages/Taller/Agenda.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xUYWxsZXJcQWdlbmRhLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Universidad/Ciclo 7/Complemento Especializado/Ejemplo ERP/erp-taller-automotriz/erp-taller-automotriz/src/ERP.TallerAutomotriz.Web/Components/Pages/Taller/CambiarEstadoDialog.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xUYWxsZXJcQ2FtYmlhckVzdGFkb0RpYWxvZy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Universidad/Ciclo 7/Complemento Especializado/Ejemplo ERP/erp-taller-automotriz/erp-taller-automotriz/src/ERP.TallerAutomotriz.Web/Components/Pages/Taller/CitaFormDialog.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xUYWxsZXJcQ2l0YUZvcm1EaWFsb2cucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Universidad/Ciclo 7/Complemento Especializado/Ejemplo ERP/erp-taller-automotriz/erp-taller-automotriz/src/ERP.TallerAutomotriz.Web/Components/Pages/Taller/OrdenDetalle.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xUYWxsZXJcT3JkZW5EZXRhbGxlLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Universidad/Ciclo 7/Complemento Especializado/Ejemplo ERP/erp-taller-automotriz/erp-taller-automotriz/src/ERP.TallerAutomotriz.Web/Components/Pages/Taller/OrdenesTrabajo.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xUYWxsZXJcT3JkZW5lc1RyYWJham8ucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Universidad/Ciclo 7/Complemento Especializado/Ejemplo ERP/erp-taller-automotriz/erp-taller-automotriz/src/ERP.TallerAutomotriz.Web/Components/Pages/Taller/Recepcion.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xUYWxsZXJcUmVjZXBjaW9uLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Universidad/Ciclo 7/Complemento Especializado/Ejemplo ERP/erp-taller-automotriz/erp-taller-automotriz/src/ERP.TallerAutomotriz.Web/Components/Pages/Taller/ServicioFormDialog.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xUYWxsZXJcU2VydmljaW9Gb3JtRGlhbG9nLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Universidad/Ciclo 7/Complemento Especializado/Ejemplo ERP/erp-taller-automotriz/erp-taller-automotriz/src/ERP.TallerAutomotriz.Web/Components/Pages/Taller/Servicios.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xUYWxsZXJcU2VydmljaW9zLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Universidad/Ciclo 7/Complemento Especializado/Ejemplo ERP/erp-taller-automotriz/erp-taller-automotriz/src/ERP.TallerAutomotriz.Web/Components/Pages/Vehiculos/VehiculoFormDialog.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xWZWhpY3Vsb3NcVmVoaWN1bG9Gb3JtRGlhbG9nLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Universidad/Ciclo 7/Complemento Especializado/Ejemplo ERP/erp-taller-automotriz/erp-taller-automotriz/src/ERP.TallerAutomotriz.Web/Components/Pages/Vehiculos/Vehiculos.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xWZWhpY3Vsb3NcVmVoaWN1bG9zLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Universidad/Ciclo 7/Complemento Especializado/Ejemplo ERP/erp-taller-automotriz/erp-taller-automotriz/src/ERP.TallerAutomotriz.Web/Components/Pages/Ventas/AperturaCajaDialog.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xWZW50YXNcQXBlcnR1cmFDYWphRGlhbG9nLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Universidad/Ciclo 7/Complemento Especializado/Ejemplo ERP/erp-taller-automotriz/erp-taller-automotriz/src/ERP.TallerAutomotriz.Web/Components/Pages/Ventas/Caja.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xWZW50YXNcQ2FqYS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Universidad/Ciclo 7/Complemento Especializado/Ejemplo ERP/erp-taller-automotriz/erp-taller-automotriz/src/ERP.TallerAutomotriz.Web/Components/Pages/Ventas/CierreCajaDialog.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xWZW50YXNcQ2llcnJlQ2FqYURpYWxvZy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Universidad/Ciclo 7/Complemento Especializado/Ejemplo ERP/erp-taller-automotriz/erp-taller-automotriz/src/ERP.TallerAutomotriz.Web/Components/Pages/Ventas/Cotizaciones.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xWZW50YXNcQ290aXphY2lvbmVzLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Universidad/Ciclo 7/Complemento Especializado/Ejemplo ERP/erp-taller-automotriz/erp-taller-automotriz/src/ERP.TallerAutomotriz.Web/Components/Pages/Ventas/CotizacionFormDialog.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xWZW50YXNcQ290aXphY2lvbkZvcm1EaWFsb2cucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Universidad/Ciclo 7/Complemento Especializado/Ejemplo ERP/erp-taller-automotriz/erp-taller-automotriz/src/ERP.TallerAutomotriz.Web/Components/Pages/Ventas/CuentasCobrar.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xWZW50YXNcQ3VlbnRhc0NvYnJhci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Universidad/Ciclo 7/Complemento Especializado/Ejemplo ERP/erp-taller-automotriz/erp-taller-automotriz/src/ERP.TallerAutomotriz.Web/Components/Pages/Ventas/FacturaDetalle.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xWZW50YXNcRmFjdHVyYURldGFsbGUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Universidad/Ciclo 7/Complemento Especializado/Ejemplo ERP/erp-taller-automotriz/erp-taller-automotriz/src/ERP.TallerAutomotriz.Web/Components/Pages/Ventas/FacturarOTDialog.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xWZW50YXNcRmFjdHVyYXJPVERpYWxvZy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Universidad/Ciclo 7/Complemento Especializado/Ejemplo ERP/erp-taller-automotriz/erp-taller-automotriz/src/ERP.TallerAutomotriz.Web/Components/Pages/Ventas/Facturas.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xWZW50YXNcRmFjdHVyYXMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Universidad/Ciclo 7/Complemento Especializado/Ejemplo ERP/erp-taller-automotriz/erp-taller-automotriz/src/ERP.TallerAutomotriz.Web/Components/Pages/Ventas/PagoFormDialog.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xWZW50YXNcUGFnb0Zvcm1EaWFsb2cucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Universidad/Ciclo 7/Complemento Especializado/Ejemplo ERP/erp-taller-automotriz/erp-taller-automotriz/src/ERP.TallerAutomotriz.Web/Components/Routes.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xSb3V0ZXMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Universidad/Ciclo 7/Complemento Especializado/Ejemplo ERP/erp-taller-automotriz/erp-taller-automotriz/src/ERP.TallerAutomotriz.Web/Components/Shared/BarChartTendencia.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xTaGFyZWRcQmFyQ2hhcnRUZW5kZW5jaWEucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Universidad/Ciclo 7/Complemento Especializado/Ejemplo ERP/erp-taller-automotriz/erp-taller-automotriz/src/ERP.TallerAutomotriz.Web/Components/Shared/KpiCard.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xTaGFyZWRcS3BpQ2FyZC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Universidad/Ciclo 7/Complemento Especializado/Ejemplo ERP/erp-taller-automotriz/erp-taller-automotriz/src/ERP.TallerAutomotriz.Web/Components/Shared/KpiCircular.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xTaGFyZWRcS3BpQ2lyY3VsYXIucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Universidad/Ciclo 7/Complemento Especializado/Ejemplo ERP/erp-taller-automotriz/erp-taller-automotriz/src/ERP.TallerAutomotriz.Web/Components/Shared/MiniCalendario.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xTaGFyZWRcTWluaUNhbGVuZGFyaW8ucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Universidad/Ciclo 7/Complemento Especializado/Ejemplo ERP/erp-taller-automotriz/erp-taller-automotriz/src/ERP.TallerAutomotriz.Web/Components/Shared/RedirectToLogin.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xTaGFyZWRcUmVkaXJlY3RUb0xvZ2luLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Universidad/Ciclo 7/Complemento Especializado/Ejemplo ERP/erp-taller-automotriz/erp-taller-automotriz/src/ERP.TallerAutomotriz.Web/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 

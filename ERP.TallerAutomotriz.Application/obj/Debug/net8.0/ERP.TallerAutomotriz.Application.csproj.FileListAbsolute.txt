@@ -1,0 +1,30 @@
+C:\CRMyERP\erp-taller-automotriz\src\ERP.TallerAutomotriz.Application\bin\Debug\net8.0\ERP.TallerAutomotriz.Application.deps.json
+C:\CRMyERP\erp-taller-automotriz\src\ERP.TallerAutomotriz.Application\bin\Debug\net8.0\ERP.TallerAutomotriz.Application.dll
+C:\CRMyERP\erp-taller-automotriz\src\ERP.TallerAutomotriz.Application\bin\Debug\net8.0\ERP.TallerAutomotriz.Application.pdb
+C:\CRMyERP\erp-taller-automotriz\src\ERP.TallerAutomotriz.Application\bin\Debug\net8.0\ERP.TallerAutomotriz.Domain.dll
+C:\CRMyERP\erp-taller-automotriz\src\ERP.TallerAutomotriz.Application\bin\Debug\net8.0\ERP.TallerAutomotriz.Domain.pdb
+C:\CRMyERP\erp-taller-automotriz\src\ERP.TallerAutomotriz.Application\obj\Debug\net8.0\ERP.TallerAutomotriz.Application.csproj.AssemblyReference.cache
+C:\CRMyERP\erp-taller-automotriz\src\ERP.TallerAutomotriz.Application\obj\Debug\net8.0\ERP.TallerAutomotriz.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\CRMyERP\erp-taller-automotriz\src\ERP.TallerAutomotriz.Application\obj\Debug\net8.0\ERP.TallerAutomotriz.Application.AssemblyInfoInputs.cache
+C:\CRMyERP\erp-taller-automotriz\src\ERP.TallerAutomotriz.Application\obj\Debug\net8.0\ERP.TallerAutomotriz.Application.AssemblyInfo.cs
+C:\CRMyERP\erp-taller-automotriz\src\ERP.TallerAutomotriz.Application\obj\Debug\net8.0\ERP.TallerAutomotriz.Application.csproj.CoreCompileInputs.cache
+C:\CRMyERP\erp-taller-automotriz\src\ERP.TallerAutomotriz.Application\obj\Debug\net8.0\ERP.Tall.559462B4.Up2Date
+C:\CRMyERP\erp-taller-automotriz\src\ERP.TallerAutomotriz.Application\obj\Debug\net8.0\ERP.TallerAutomotriz.Application.dll
+C:\CRMyERP\erp-taller-automotriz\src\ERP.TallerAutomotriz.Application\obj\Debug\net8.0\refint\ERP.TallerAutomotriz.Application.dll
+C:\CRMyERP\erp-taller-automotriz\src\ERP.TallerAutomotriz.Application\obj\Debug\net8.0\ERP.TallerAutomotriz.Application.pdb
+C:\CRMyERP\erp-taller-automotriz\src\ERP.TallerAutomotriz.Application\obj\Debug\net8.0\ref\ERP.TallerAutomotriz.Application.dll
+C:\Universidad\Ciclo 7\Complemento Especializado\Ejemplo ERP\erp-taller-automotriz\erp-taller-automotriz\src\ERP.TallerAutomotriz.Application\bin\Debug\net8.0\ERP.TallerAutomotriz.Application.deps.json
+C:\Universidad\Ciclo 7\Complemento Especializado\Ejemplo ERP\erp-taller-automotriz\erp-taller-automotriz\src\ERP.TallerAutomotriz.Application\bin\Debug\net8.0\ERP.TallerAutomotriz.Application.dll
+C:\Universidad\Ciclo 7\Complemento Especializado\Ejemplo ERP\erp-taller-automotriz\erp-taller-automotriz\src\ERP.TallerAutomotriz.Application\bin\Debug\net8.0\ERP.TallerAutomotriz.Application.pdb
+C:\Universidad\Ciclo 7\Complemento Especializado\Ejemplo ERP\erp-taller-automotriz\erp-taller-automotriz\src\ERP.TallerAutomotriz.Application\bin\Debug\net8.0\ERP.TallerAutomotriz.Domain.dll
+C:\Universidad\Ciclo 7\Complemento Especializado\Ejemplo ERP\erp-taller-automotriz\erp-taller-automotriz\src\ERP.TallerAutomotriz.Application\bin\Debug\net8.0\ERP.TallerAutomotriz.Domain.pdb
+C:\Universidad\Ciclo 7\Complemento Especializado\Ejemplo ERP\erp-taller-automotriz\erp-taller-automotriz\src\ERP.TallerAutomotriz.Application\obj\Debug\net8.0\ERP.TallerAutomotriz.Application.csproj.AssemblyReference.cache
+C:\Universidad\Ciclo 7\Complemento Especializado\Ejemplo ERP\erp-taller-automotriz\erp-taller-automotriz\src\ERP.TallerAutomotriz.Application\obj\Debug\net8.0\ERP.TallerAutomotriz.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Universidad\Ciclo 7\Complemento Especializado\Ejemplo ERP\erp-taller-automotriz\erp-taller-automotriz\src\ERP.TallerAutomotriz.Application\obj\Debug\net8.0\ERP.TallerAutomotriz.Application.AssemblyInfoInputs.cache
+C:\Universidad\Ciclo 7\Complemento Especializado\Ejemplo ERP\erp-taller-automotriz\erp-taller-automotriz\src\ERP.TallerAutomotriz.Application\obj\Debug\net8.0\ERP.TallerAutomotriz.Application.AssemblyInfo.cs
+C:\Universidad\Ciclo 7\Complemento Especializado\Ejemplo ERP\erp-taller-automotriz\erp-taller-automotriz\src\ERP.TallerAutomotriz.Application\obj\Debug\net8.0\ERP.TallerAutomotriz.Application.csproj.CoreCompileInputs.cache
+C:\Universidad\Ciclo 7\Complemento Especializado\Ejemplo ERP\erp-taller-automotriz\erp-taller-automotriz\src\ERP.TallerAutomotriz.Application\obj\Debug\net8.0\ERP.Tall.559462B4.Up2Date
+C:\Universidad\Ciclo 7\Complemento Especializado\Ejemplo ERP\erp-taller-automotriz\erp-taller-automotriz\src\ERP.TallerAutomotriz.Application\obj\Debug\net8.0\ERP.TallerAutomotriz.Application.dll
+C:\Universidad\Ciclo 7\Complemento Especializado\Ejemplo ERP\erp-taller-automotriz\erp-taller-automotriz\src\ERP.TallerAutomotriz.Application\obj\Debug\net8.0\refint\ERP.TallerAutomotriz.Application.dll
+C:\Universidad\Ciclo 7\Complemento Especializado\Ejemplo ERP\erp-taller-automotriz\erp-taller-automotriz\src\ERP.TallerAutomotriz.Application\obj\Debug\net8.0\ERP.TallerAutomotriz.Application.pdb
+C:\Universidad\Ciclo 7\Complemento Especializado\Ejemplo ERP\erp-taller-automotriz\erp-taller-automotriz\src\ERP.TallerAutomotriz.Application\obj\Debug\net8.0\ref\ERP.TallerAutomotriz.Application.dll

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "utFaOEtpuxw=",
+  "success": true,
+  "projectFilePath": "C:\\Universidad\\Ciclo 7\\Complemento Especializado\\Ejemplo ERP\\erp-taller-automotriz\\erp-taller-automotriz\\src\\ERP.TallerAutomotriz.Application\\ERP.TallerAutomotriz.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.1\\microsoft.extensions.dependencyinjection.abstractions.8.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
